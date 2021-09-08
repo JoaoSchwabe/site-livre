@@ -161,9 +161,7 @@ footer p{
         }
         #img-sobre{
             grid-column: 4/7;
-            margin: 0 0 0 0;
-            max-width: 100%;
-            height: 100%;
+            width: 110%;
         }
         #personagens{
             margin-left: 2vh;
